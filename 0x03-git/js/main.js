@@ -1,2 +1,0 @@
-
-cat > js/index.js
